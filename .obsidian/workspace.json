@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0d3e6e1a3ff83d",
+        "id": "323537305ec4173c",
         "type": "tabs",
         "children": [
           {
-            "id": "4a720f41325bad5e",
+            "id": "35d0623a7067fde2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "技术/Mysql/Mysql45.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Mysql45"
             }
           }
         ]
@@ -71,7 +75,7 @@
             }
           },
           {
-            "id": "42bdfe86867298aa",
+            "id": "499c6a56728a065a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,12 +84,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -220,8 +224,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42bdfe86867298aa",
+  "active": "35d0623a7067fde2",
   "lastOpenFiles": [
+    "Tags",
     ".gitignore.md",
     "技术/Mysql/Mysql45.md",
     "Excalidraw/整合流程.md",
@@ -246,7 +251,6 @@
     "2025-10-13.md",
     "PNG/山石/业务/ti-static-library/Pasted image 20251009151100.png",
     "PNG/JVM/Pasted image 20250929105830.png",
-    "Tags",
     "山石/业务代码/ti-static-library/代码/Scheduler/EtproScheduler.md",
     "山石/业务代码/ti-static-library/代码/Controller/ProbeController.md",
     "PNG/山石/业务/ti-static-library/未命名.canvas",
@@ -270,7 +274,6 @@
     "技术/JVM/![[Pasted image 20250929112618.png300]].md",
     "技术/JVM/Untitled.md",
     "Excalidraw/c2库流程.md",
-    "山石/网络安全.md",
     "山石/未命名.canvas"
   ]
 }
