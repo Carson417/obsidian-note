@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "9e5841a94c6aaa01",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab0d3e6e1a3ff83d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a720f41325bad5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fab760869edf0163",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1f7c310257123f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97360403bcc430e2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "dc875b399eafb678",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ab4f096cc13fc225",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "42bdfe86867298aa",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "014a8a8d3b24cf7d",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2a9a45bca75986f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bcec42035079218",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "5b455d1aa39fa033",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "山石/工作流程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "工作流程 的出链列表"
+            }
+          },
+          {
+            "id": "b8903af53768799b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "aab5d9bce30263f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "技术/JVM/JVM虚拟机.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "JVM虚拟机 的大纲"
+            }
+          },
+          {
+            "id": "d68bbe0d0fcfb252",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "d01173762e3b748b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "48a47e8c272a92d2",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "23b15b45314df96a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:插入模板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "spreadsheets:New Spreadsheet": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "42bdfe86867298aa",
+  "lastOpenFiles": [
+    ".gitignore.md",
+    "技术/Mysql/Mysql45.md",
+    "Excalidraw/整合流程.md",
+    "Excalidraw/Drawing 2025-10-17 13.52.54.excalidraw.md",
+    "Untitled.sheet",
+    "未命名 1.canvas",
+    "未命名.base",
+    "未命名.canvas",
+    "2025-10-17.md",
+    "技术/Mysql/[[技术MysqlServer层.mdServer层 ]].md",
+    "技术/Mysql/Server层.md",
+    "PNG/Mysql/Pasted image 20251016170139.png",
+    "PNG/Mysql",
+    "技术/Mysql",
+    "技术/Git/GIT.md",
+    "技术/JAVA/正则表达式.md",
+    "技术/Git",
+    "山石/云查相关梳理.pdf",
+    "技术/JVM/JVM虚拟机.md",
+    "Excalidraw/Etpro文件定时处理任务.md",
+    "Vault.md",
+    "2025-10-13.md",
+    "PNG/山石/业务/ti-static-library/Pasted image 20251009151100.png",
+    "PNG/JVM/Pasted image 20250929105830.png",
+    "Tags",
+    "山石/业务代码/ti-static-library/代码/Scheduler/EtproScheduler.md",
+    "山石/业务代码/ti-static-library/代码/Controller/ProbeController.md",
+    "PNG/山石/业务/ti-static-library/未命名.canvas",
+    "PNG/山石/业务/ti-static-library",
+    "2025-10-09.md",
+    "PNG/PNG.md",
+    "PNG/山石/业务",
+    "PNG/山石",
+    "技术/K8S/PV, PVC, StorageClass.md",
+    "PNG/JVM/Pasted image 20250929160129.png",
+    "PNG/JVM/Pasted image 20250929132409.png",
+    "Pasted image 20250929114201.png",
+    "PNG/JVM/JVM.md",
+    "PNG/K8S/K8S.md",
+    "PNG/K8S/Untitled.md",
+    "PNG/JVM/Pasted image 20250929113133.png",
+    "PNG/JVM/Untitled.md",
+    "PNG/Pasted image 202509291131331.png",
+    "PNG/K8S/Pasted image 20250917102328.png",
+    "PNG/K8S/Pasted image 20250917102148.png",
+    "技术/JVM/![[Pasted image 20250929112618.png300]].md",
+    "技术/JVM/Untitled.md",
+    "Excalidraw/c2库流程.md",
+    "山石/网络安全.md",
+    "山石/未命名.canvas"
+  ]
+}
