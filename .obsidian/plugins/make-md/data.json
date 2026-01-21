@@ -38,11 +38,8 @@
   "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//技术/技术/JVM",
-    "//PNG/PNG/山石/PNG/山石/业务",
-    "//PNG/PNG/山石/PNG/山石/业务/PNG/山石/业务/ti-static-library",
-    "//技术/技术/JAVA",
-    "/"
+    "/",
+    "//山石/山石/业务代码"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -76,13 +73,13 @@
   "enableDefaultSpaces": true,
   "showSpacePinIcon": true,
   "experimental": false,
-  "systemName": "Obsidian Vault",
+  "systemName": "默认仓库",
   "defaultSpaceTemplate": "",
   "selectedKit": "default",
   "actionMaxSteps": 100,
   "contextPagination": 25,
-  "skipFolderNames": [],
   "skipFolders": [],
+  "skipFolderNames": [],
   "enhancedLogs": false,
   "basics": true,
   "basicsSettings": {
@@ -108,5 +105,7 @@
   "editStickerInSidebar": true,
   "overrideNativeMenu": false,
   "onboardingCompleted": false,
-  "contextCreateUseModal": false
+  "contextCreateUseModal": false,
+  "homepagePath": "",
+  "mobileMakeHeader": false
 }

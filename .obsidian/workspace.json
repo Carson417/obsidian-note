@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "323537305ec4173c",
+        "id": "2e89ddd135e33263",
         "type": "tabs",
         "children": [
           {
-            "id": "35d0623a7067fde2",
+            "id": "b10c7948b3390c2b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "技术/Mysql/Mysql45.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Mysql45"
+              "title": "新标签页"
             }
           }
         ]
@@ -75,7 +71,7 @@
             }
           },
           {
-            "id": "499c6a56728a065a",
+            "id": "25fb95c8e45f7db3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,12 +80,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -123,12 +119,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "山石/工作流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "工作流程 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -152,13 +147,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术/JVM/JVM虚拟机.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "JVM虚拟机 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -182,16 +176,6 @@
             }
           },
           {
-            "id": "48a47e8c272a92d2",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {},
-              "icon": "lines-of-text",
-              "title": "Quiet Outline"
-            }
-          },
-          {
             "id": "23b15b45314df96a",
             "type": "leaf",
             "state": {
@@ -202,78 +186,80 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 429.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "spreadsheets:New Spreadsheet": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false,
+      "bases:新建数据库": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "spreadsheets:New Spreadsheet": false,
-      "copilot:Open Copilot Chat": false,
-      "obsidian-git:Open Git source control": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "35d0623a7067fde2",
+  "active": "23b15b45314df96a",
   "lastOpenFiles": [
-    "Tags",
-    ".gitignore.md",
-    "技术/Mysql/Mysql45.md",
-    "Excalidraw/整合流程.md",
-    "Excalidraw/Drawing 2025-10-17 13.52.54.excalidraw.md",
-    "Untitled.sheet",
-    "未命名 1.canvas",
-    "未命名.base",
     "未命名.canvas",
-    "2025-10-17.md",
-    "技术/Mysql/[[技术MysqlServer层.mdServer层 ]].md",
-    "技术/Mysql/Server层.md",
-    "PNG/Mysql/Pasted image 20251016170139.png",
-    "PNG/Mysql",
-    "技术/Mysql",
-    "技术/Git/GIT.md",
-    "技术/JAVA/正则表达式.md",
-    "技术/Git",
-    "山石/云查相关梳理.pdf",
-    "技术/JVM/JVM虚拟机.md",
-    "Excalidraw/Etpro文件定时处理任务.md",
-    "Vault.md",
-    "2025-10-13.md",
-    "PNG/山石/业务/ti-static-library/Pasted image 20251009151100.png",
-    "PNG/JVM/Pasted image 20250929105830.png",
-    "山石/业务代码/ti-static-library/代码/Scheduler/EtproScheduler.md",
-    "山石/业务代码/ti-static-library/代码/Controller/ProbeController.md",
-    "PNG/山石/业务/ti-static-library/未命名.canvas",
-    "PNG/山石/业务/ti-static-library",
-    "2025-10-09.md",
-    "PNG/PNG.md",
-    "PNG/山石/业务",
-    "PNG/山石",
-    "技术/K8S/PV, PVC, StorageClass.md",
-    "PNG/JVM/Pasted image 20250929160129.png",
-    "PNG/JVM/Pasted image 20250929132409.png",
-    "Pasted image 20250929114201.png",
-    "PNG/JVM/JVM.md",
-    "PNG/K8S/K8S.md",
-    "PNG/K8S/Untitled.md",
-    "PNG/JVM/Pasted image 20250929113133.png",
-    "PNG/JVM/Untitled.md",
-    "PNG/Pasted image 202509291131331.png",
-    "PNG/K8S/Pasted image 20250917102328.png",
-    "PNG/K8S/Pasted image 20250917102148.png",
-    "技术/JVM/![[Pasted image 20250929112618.png300]].md",
-    "技术/JVM/Untitled.md",
+    "2026-01-21.md",
+    "山石/云服务开发相关技术栈.pdf",
+    "山石/SOC职能.md",
+    "技术/分布式/API网关/基础知识.md",
+    "未命名.base",
+    "技术/分布式/分布式ID",
+    "技术/分布式/API网关",
+    "技术/分布式",
+    "刷题/灵神/tech/滑动窗口.md",
+    "刷题/灵神/tech/相向双指针.md",
+    "刷题/灵神/video/两数之和、三数之和.md",
+    "Excalidraw/热点情报.md",
+    "刷题/灵神/tech",
+    "刷题/灵神/video",
+    "PNG/刷题/灵神/Pasted image 20260107160938.png",
+    "PNG/刷题/灵神/Pasted image 20260107160025.png",
+    "PNG/刷题/灵神",
+    "PNG/刷题",
+    "刷题/灵神",
+    "技术/JUC/JUC并发编程.md",
+    "PNG/JUC/Pasted image 20251229163725.png",
+    "技术/JUC/锁.canvas",
+    "PNG/JUC/Pasted image 20251229162830.png",
+    "Excalidraw/whoisxml.md",
+    "PNG/JUC/Pasted image 20251226114304.png",
+    "PNG/JUC/Pasted image 20251226102304.png",
+    "PNG/JUC/Pasted image 20251225171334.png",
+    "PNG/JUC/Pasted image 20251225161909.png",
+    "PNG/JUC/Pasted image 20251225151041.png",
+    "PNG/JUC/Pasted image 20251225150610.png",
     "Excalidraw/c2库流程.md",
+    "技术/JavaWeb/JavaWeb.md",
+    "PNG/JVM/JVM.md",
+    "Excalidraw/整合流程.md",
+    "Excalidraw/Drawing 2025-12-08 10.23.16.excalidraw.md",
+    "Excalidraw/Etpro文件定时处理任务.md",
+    "技术/K8S/PV, PVC, StorageClass.md",
+    "Excalidraw/未命名.canvas",
+    "Excalidraw/未命名.md",
+    "技术/JVM/JVM虚拟机.md",
+    "技术/Mysql/Mysql45.md",
+    "技术/Mysql/Mysql.md",
+    "技术/Mysql/补充/change buffer 补充.md",
+    "技术/Mysql/补充/KV场景索引理解.md",
+    "山石/工作流程.md",
+    "山石/网络安全.md",
+    "技术/Mysql/自增列上定义的主键.md",
+    "未命名 1.canvas",
+    "PNG/山石/业务/ti-static-library/未命名.canvas",
     "山石/未命名.canvas"
   ]
 }
