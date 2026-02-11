@@ -45,7 +45,9 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [],
+  "hiddenFiles": [
+    "Excalidraw/Drawing 2026-02-02 10.45.00.excalidraw.md"
+  ],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
