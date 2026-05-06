@@ -39,7 +39,9 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//山石/山石/业务代码"
+    "//山石/山石/业务代码",
+    "//Excalidraw/Excalidraw/whoisxml精简",
+    "//Excalidraw/Excalidraw/whoisxml精简/Excalidraw/whoisxml精简/Downloaded"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

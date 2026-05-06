@@ -4,20 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e0412c7fa6792945",
+        "id": "05cf1ea8a524f30c",
         "type": "tabs",
         "children": [
           {
-            "id": "916339220cd5e789",
+            "id": "ca6b651af12e01ff",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "/"
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "默认仓库"
+            }
+          },
+          {
+            "id": "dd9343e54b539e94",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/资产扩线.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "资产扩线"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -71,7 +86,7 @@
             }
           },
           {
-            "id": "1c788a7adaeca1bc",
+            "id": "b6cc17bcf7146a5f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -100,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术/小林/Java基础/Java基础.md",
+                "file": "Excalidraw/资产扩线.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Java基础 的反向链接列表"
+              "title": "资产扩线 的反向链接列表"
             }
           },
           {
@@ -119,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技术/小林/Java基础/Java基础.md",
+                "file": "Excalidraw/资产扩线.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Java基础 的出链列表"
+              "title": "资产扩线 的出链列表"
             }
           },
           {
@@ -148,12 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/资产扩线.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "资产扩线 的大纲"
             }
           },
           {
@@ -185,70 +201,70 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "spreadsheets:New Spreadsheet": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false,
       "bases:新建数据库": false,
       "templates:插入模板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "spreadsheets:New Spreadsheet": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "916339220cd5e789",
+  "active": "97360403bcc430e2",
   "lastOpenFiles": [
-    "技术/Gateway/Spring Cloud 微服务网关Gateway组件.md",
-    "PNG/Gateway/Pasted image 20260209105021.png",
+    "Excalidraw/资产扩线.md",
+    "山石/业务代码/tip业务流程图.md",
+    "未命名.canvas",
+    "山石/代码经验/cloud-tip.md",
+    "山石/业务代码/ti-static-library/代码/业务流程图.md",
+    "山石/业务代码/ti-static-library/代码/Scheduler/EtproScheduler.md",
+    "山石/业务代码/ti-source-geo/业务流程图.md",
+    "山石/业务代码/ti-static-library/代码/Controller/ProbeController.md",
+    "山石/代码经验",
+    "山石/业务代码/ti-source-qihoo",
+    "山石/威胁情报平台设计文档(1).pdf",
+    "山石/业务代码/ti-source-geo",
+    "山石/威胁情报平台设计文档.pdf",
+    "山石/网络安全.md",
     "Excalidraw/whoisxml.md",
+    "Excalidraw/whoisxml精简.md",
+    "Excalidraw/whoisxml接口.md",
+    "Excalidraw/整合流程.md",
+    "Excalidraw/热点情报.md",
+    "Pasted Image 20260319164747_610.png",
+    "Excalidraw/c2库流程.md",
+    "Excalidraw/Etpro文件定时处理任务.md",
+    "Excalidraw/Untitled.canvas",
+    "刷题/灵茶山艾府/单调队列/滑动窗口最大值.md",
+    "PNG/刷题/灵茶山艾府/Pasted image 20260305164817.png",
+    "PNG/刷题/灵茶山艾府/Pasted image 20260305163529.png",
+    "PNG/刷题/灵茶山艾府/Pasted image 20260305163421.png",
+    "PNG/刷题/灵茶山艾府",
+    "PNG/刷题/灵茶山艾府/Pasted image 20260304152557.png",
+    "刷题/灵茶山艾府/单调队列",
+    "刷题/灵茶山艾府",
+    "Tags",
+    "山石/SOC职能.md",
+    "山石/云服务开发相关技术栈.pdf",
+    "山石/工作流程.md",
+    "技术/Mysql/Mysql45.md",
+    "技术/K8S/PV, PVC, StorageClass.md",
+    "技术/JVM/JVM虚拟机.md",
+    "技术/JUC/JUC并发编程.md",
+    "技术/JUC/锁.canvas",
+    "技术/JavaWeb/JavaWeb.md",
+    "技术/Git/GIT.md",
+    "刷题/灵神/tech/滑动窗口.md",
+    "PNG/Gateway/Pasted image 20260209105021.png",
     "PNG/Gateway/Pasted image 20260205164738.png",
     "PNG/Gateway/Pasted image 20260205164110.png",
     "PNG/Gateway/Pasted image 20260205163728.png",
     "PNG/Gateway/Pasted image 20260205162618.png",
-    "PNG/Gateway",
-    "PNG/Gateway/Pasted image 20260205160924.png",
-    "技术/Gateway",
-    "Excalidraw/arango.md",
-    "Excalidraw/arango.md",
-    "Excalidraw/Etpro文件定时处理任务.md",
-    "Excalidraw/c2库流程.md",
-    "Excalidraw/Drawing 2026-02-02 11.17.05.excalidraw.md",
-    "Excalidraw/热点情报.md",
-    "Excalidraw/整合流程.md",
     "Excalidraw/未命名.canvas",
-    "Excalidraw/Drawing 2026-02-02 10.45.00.excalidraw.md",
-    "Excalidraw/Untitled.canvas",
-    "Excalidraw/未命名.md",
-    "技术/小林/Java基础/Java基础.md",
-    "PNG/小林/Java基础/Pasted image 20260130105658.png",
-    "PNG/小林/Java基础/Pasted image 20260128170940.png",
-    "PNG/小林/Java基础/Pasted image 20260127093311.png",
-    "PNG/小林/Java基础/Pasted image 20260126180201.png",
-    "2026-01-26.md",
-    "PNG/小林/Java基础",
-    "PNG/小林",
-    "技术/小林/Java基础",
-    "技术/小林/Java基础面试‘",
-    "技术/小林",
-    "技术/JavaGuide/基础/知识点/BigDecimal.md",
-    "PNG/JavaGuide/基础/知识点/Bigdecimal",
-    "技术/JavaGuide/基础/知识点/代理模式.md",
-    "技术/JavaGuide/基础/知识点/反射.md",
-    "技术/JavaGuide/基础/知识点/序列化.md",
-    "技术/JavaGuide/基础/知识点/值传递.md",
-    "技术/JavaGuide/基础/知识点/泛型 & 通配符.md",
-    "PNG/JavaGuide/基础/知识点/序列化",
-    "PNG/JavaGuide/基础/知识点",
-    "技术/JVM/JVM虚拟机.md",
-    "技术/JUC/锁.canvas",
-    "技术/JavaWeb/JavaWeb.md",
-    "技术/JAVA/正则表达式.md",
-    "未命名.canvas",
-    "2026-01-21.md",
-    "山石/SOC职能.md",
-    "技术/分布式/API网关/基础知识.md",
     "未命名 1.canvas",
     "PNG/山石/业务/ti-static-library/未命名.canvas",
     "山石/未命名.canvas"
