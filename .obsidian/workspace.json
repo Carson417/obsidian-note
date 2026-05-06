@@ -86,7 +86,7 @@
             }
           },
           {
-            "id": "b6cc17bcf7146a5f",
+            "id": "ed898bea95b65577",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -95,7 +95,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97360403bcc430e2",
+  "active": "dd9343e54b539e94",
   "lastOpenFiles": [
     "Excalidraw/资产扩线.md",
     "山石/业务代码/tip业务流程图.md",
