@@ -432,5 +432,19 @@
       }
     },
     "expandedKeys": []
+  },
+  "技术/K8S/kubrnetes.md": {
+    "scroll": 0,
+    "cursor": {
+      "from": {
+        "line": 11,
+        "ch": 0
+      },
+      "to": {
+        "line": 11,
+        "ch": 0
+      }
+    },
+    "expandedKeys": []
   }
 }
