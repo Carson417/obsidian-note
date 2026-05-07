@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ca6b651af12e01ff",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "/"
-              },
-              "icon": "lucide-file",
-              "title": "默认仓库"
-            }
-          },
-          {
             "id": "dd9343e54b539e94",
             "type": "leaf",
             "state": {
@@ -29,6 +17,20 @@
               },
               "icon": "excalidraw-icon",
               "title": "资产扩线"
+            }
+          },
+          {
+            "id": "01288316c500c5fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术/K8S/kubrnetes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kubrnetes"
             }
           }
         ],
@@ -95,13 +97,11 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -217,8 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9343e54b539e94",
+  "active": "01288316c500c5fa",
   "lastOpenFiles": [
+    "技术/K8S/kubrnetes.md",
+    "技术/K8S/未命名",
     "Excalidraw/资产扩线.md",
     "山石/业务代码/tip业务流程图.md",
     "未命名.canvas",
@@ -252,7 +254,6 @@
     "刷题/灵茶山艾府",
     "Tags",
     "山石/SOC职能.md",
-    "山石/云服务开发相关技术栈.pdf",
     "山石/工作流程.md",
     "技术/Mysql/Mysql45.md",
     "技术/K8S/PV, PVC, StorageClass.md",
