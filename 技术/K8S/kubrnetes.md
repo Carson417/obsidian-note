@@ -43,6 +43,9 @@ k8s就是为了大规模管理容器应用的自动化工具而已
 ## 容器应用管理方式
 应用功能状态最大化封装
 
+![[Pasted image 20260507175814.png]]
+pod以容器应用管理方式运行，kublet以普通守护进程方式来运行
+
 
 
 从功能可用性角度：
@@ -85,16 +88,17 @@ pod网络和service网络本质上是虚拟网络
 
 
 组件角度：
-客户创建容器应用，如nginx，请求进入入口master，master中的kube-apiserver组件接收，
+客户创建容器应用，如nginx，请求进入入口master，master中的kube-apiserver组件接收，apiserver把数据存到ETCD，（ETCD只有一个客户：apiserver），kube-scheduler组件监听apiserver，并通过它从ETCD拿数据，并确定哪个工作节点适合，确定好后，由api-server指挥远程工作节点中的kubelet组件，kubelet通过cri-dockerd、通过docker把pod创建出来，pod创建出来是有实际状态的，我们在创建的时候有期望状态，k8s如何知道两者是否相符？---kubelet会采集当前实际状态信息，交给apiserver，存到ETCD，状态的对比由kube-controller-manager来做，也是监听apiserver，去ETCD里拿数据对比
 
 ![[Pasted image 20260507174356.png]]
 
 
 
 
-
-
-
+最后的部署环境：
+类型：单主分布式
+容器：docker + cri-dockerd
+cna
 
 
 
