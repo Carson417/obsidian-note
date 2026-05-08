@@ -101,7 +101,7 @@ pod网络和service网络本质上是虚拟网络
 仓库：harbor私有
 组件：除了kubelet 其他都是 容器方式部署
 
-
+ 
 
 
 

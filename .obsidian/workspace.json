@@ -33,7 +33,8 @@
               "title": "kubrnetes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9343e54b539e94",
+  "active": "01288316c500c5fa",
   "lastOpenFiles": [
+    "Excalidraw/资产扩线.md",
     "技术/K8S/kubrnetes.md",
     "Pasted image 20260507175814.png",
     "Pasted image 20260507174356.png",
@@ -231,7 +233,6 @@
     "PNG/K8S/kubernetes/Pasted image 20260507160156.png",
     "PNG/K8S/kubernetes/Pasted image 20260507153002.png",
     "技术/K8S/未命名",
-    "Excalidraw/资产扩线.md",
     "山石/业务代码/tip业务流程图.md",
     "未命名.canvas",
     "山石/代码经验/cloud-tip.md",
