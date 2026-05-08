@@ -33,8 +33,7 @@
               "title": "kubrnetes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,13 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01288316c500c5fa",
+  "active": "dd9343e54b539e94",
   "lastOpenFiles": [
+    "技术/K8S/kubrnetes.md",
     "Pasted image 20260507175814.png",
     "Pasted image 20260507174356.png",
     "PNG/K8S/Pasted image 20250917102148.png",
     "PNG/K8S/kubernetes",
-    "技术/K8S/kubrnetes.md",
     "PNG/K8S/kubernetes/Pasted image 20260507171814.png",
     "PNG/K8S/kubernetes/Pasted image 20260507171000.png",
     "PNG/K8S/Pasted image 20260507161718.png",
@@ -256,7 +255,6 @@
     "Excalidraw/Etpro文件定时处理任务.md",
     "Excalidraw/Untitled.canvas",
     "刷题/灵茶山艾府/单调队列/滑动窗口最大值.md",
-    "PNG/刷题/灵茶山艾府/Pasted image 20260305164817.png",
     "PNG/刷题/灵茶山艾府",
     "刷题/灵茶山艾府/单调队列",
     "刷题/灵茶山艾府",
