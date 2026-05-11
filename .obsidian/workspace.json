@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "fe8650d23a64455e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/whoisxml.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "whoisxml"
-            }
-          },
-          {
-            "id": "9d728a553075c190",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "山石/业务代码/ti-source-geo/业务流程图.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "业务流程图"
-            }
-          },
-          {
             "id": "047897afae6c78ce",
             "type": "leaf",
             "state": {
@@ -242,9 +218,9 @@
   "active": "dd9343e54b539e94",
   "lastOpenFiles": [
     "Excalidraw/整合流程.md",
-    "Excalidraw/资产扩线.md",
-    "Excalidraw/whoisxml.md",
     "山石/业务代码/ti-source-geo/业务流程图.md",
+    "Excalidraw/whoisxml.md",
+    "Excalidraw/资产扩线.md",
     "技术/K8S/kubrnetes.md",
     "山石/代码经验/cloud-tip.md",
     "Excalidraw/whoisxml接口.md",
