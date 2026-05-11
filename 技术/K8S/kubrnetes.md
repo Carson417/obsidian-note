@@ -98,8 +98,7 @@ pod网络和service网络本质上是虚拟网络
 最后的部署环境：
 类型：单主分布式
 容器：docker + cri-dockerd
-仓库：harbor私有
-
+仓库：
 
 
 
