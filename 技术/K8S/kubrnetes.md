@@ -99,7 +99,7 @@ pod网络和service网络本质上是虚拟网络
 类型：单主分布式
 容器：docker + cri-dockerd
 仓库：harbor私有
-组件：除了kubelet 其他都是 容器方式部署
+
 
 
 
