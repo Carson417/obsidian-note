@@ -55,8 +55,7 @@
               "title": "整合流程"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,12 +239,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "047897afae6c78ce",
+  "active": "dd9343e54b539e94",
   "lastOpenFiles": [
+    "Excalidraw/整合流程.md",
     "Excalidraw/资产扩线.md",
     "Excalidraw/whoisxml.md",
     "山石/业务代码/ti-source-geo/业务流程图.md",
-    "Excalidraw/整合流程.md",
     "技术/K8S/kubrnetes.md",
     "山石/代码经验/cloud-tip.md",
     "Excalidraw/whoisxml接口.md",
