@@ -1,0 +1,23 @@
+{
+  "id": "conv-1779092020078-1o7cli7mu",
+  "providerId": "claude",
+  "title": "Refactor this code file",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779092020078,
+  "updatedAt": 1779092300748,
+  "lastResponseAt": 1779092300748,
+  "sessionId": "d011fb10-a30d-4018-83aa-2bde482e849d",
+  "providerState": {
+    "providerSessionId": "d011fb10-a30d-4018-83aa-2bde482e849d"
+  },
+  "currentNote": "技术/杂项/常识.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 156,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 23936,
+    "contextWindow": 200000,
+    "contextTokens": 24092,
+    "percentage": 12
+  }
+}

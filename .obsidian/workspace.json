@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "769d3c14760be10a",
+            "id": "6ee30f260b25a844",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "353838eb041e1f95",
+  "active": "eb6ab980e31b7a32",
   "lastOpenFiles": [
     "技术/杂项/常识.md",
     "技术/杂项",
