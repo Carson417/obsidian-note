@@ -180,14 +180,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "353838eb041e1f95",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 429.5,
-    "collapsed": true
+    "width": 523
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,10 +210,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "spreadsheets:New Spreadsheet": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "eb6ab980e31b7a32",
+  "active": "353838eb041e1f95",
   "lastOpenFiles": [
     "技术/杂项/常识.md",
     "技术/杂项",
