@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ac7b9a9ed8ddd0bc",
+        "id": "302bac44ab48a9b6",
         "type": "tabs",
         "children": [
           {
-            "id": "eb6ab980e31b7a32",
+            "id": "7266973d7024d344",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "技术/杂项/常识.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/whoisxml.md"
               },
-              "icon": "lucide-file",
-              "title": "常识"
+              "icon": "excalidraw-icon",
+              "title": "whoisxml"
             }
           }
         ]
@@ -84,8 +82,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +194,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523
+    "width": 523,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +213,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "eb6ab980e31b7a32",
+  "active": "7266973d7024d344",
   "lastOpenFiles": [
+    "Excalidraw/c2库流程.md",
+    "Excalidraw/Etpro文件定时处理任务.md",
+    "Excalidraw/资产扩线.md",
+    "Excalidraw/整合流程.md",
+    "Excalidraw/whoisxml精简.md",
+    "Excalidraw/whoisxml接口.md",
+    "Excalidraw/whoisxml.md",
     "技术/杂项/常识.md",
     "技术/杂项",
     "PNG/K8S/kubernetes/Pasted image 20260507171000.png",
@@ -225,14 +230,9 @@
     "PNG/K8S/kubernetes/Pasted image 20260507153002.png",
     "PNG/K8S/Pasted image 20260507174356.png",
     "PNG/K8S/Pasted image 20260507175814.png",
-    "Excalidraw/资产扩线.md",
-    "Excalidraw/整合流程.md",
-    "Excalidraw/whoisxml.md",
     "山石/业务代码/ti-source-geo/业务流程图.md",
     "技术/K8S/kubrnetes.md",
     "山石/代码经验/cloud-tip.md",
-    "Excalidraw/whoisxml接口.md",
-    "Excalidraw/whoisxml精简.md",
     "PNG/K8S/Pasted image 20250917102148.png",
     "PNG/K8S/kubernetes",
     "PNG/K8S/kubernetes/Pasted image 20260507171814.png",
@@ -251,8 +251,6 @@
     "山石/网络安全.md",
     "Excalidraw/热点情报.md",
     "Pasted Image 20260319164747_610.png",
-    "Excalidraw/c2库流程.md",
-    "Excalidraw/Etpro文件定时处理任务.md",
     "Excalidraw/Untitled.canvas",
     "刷题/灵茶山艾府/单调队列/滑动窗口最大值.md",
     "PNG/刷题/灵茶山艾府",
