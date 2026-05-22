@@ -11,10 +11,14 @@
             "id": "b1b22b01c7a09979",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "技术/杂项/常识.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "常识"
             }
           }
         ]
@@ -80,12 +84,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -211,7 +215,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "97360403bcc430e2",
+  "active": "b1b22b01c7a09979",
   "lastOpenFiles": [
     "Excalidraw/whoisxml.md",
     "Excalidraw/c2库流程.md",
