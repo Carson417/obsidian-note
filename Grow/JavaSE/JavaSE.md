@@ -14,8 +14,9 @@ step2：配置 PATH，Java.exe程序的路径，加\bin，`%JAVA_HOME%\bin`
 被Java赋予了特定涵义的英文单词
 
 
-yu'fa'pian
-
+# 语法篇
+字面量：程序中的数据
+变量：程序中用来存储d'n
 
 
 
