@@ -11,10 +11,14 @@
             "id": "c26e1961d1ce81bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Grow/JavaSE/JavaSE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "JavaSE"
             }
           }
         ]
@@ -80,12 +84,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -213,6 +217,9 @@
   },
   "active": "c26e1961d1ce81bc",
   "lastOpenFiles": [
+    "Grow/JavaSE/JavaSE.md",
+    "Grow/JavaSE",
+    "Grow",
     "Excalidraw/资产扩线.md",
     "技术/杂项/常识.md",
     "Excalidraw/whoisxml.md",
@@ -251,8 +258,6 @@
     "Pasted Image 20260319164747_610.png",
     "Excalidraw/Untitled.canvas",
     "刷题/灵茶山艾府/单调队列/滑动窗口最大值.md",
-    "PNG/刷题/灵茶山艾府",
-    "刷题/灵茶山艾府/单调队列",
     "山石/SOC职能.md",
     "山石/工作流程.md",
     "技术/Mysql/Mysql45.md",
@@ -261,7 +266,6 @@
     "技术/JUC/JUC并发编程.md",
     "技术/JUC/锁.canvas",
     "技术/JavaWeb/JavaWeb.md",
-    "技术/Git/GIT.md",
     "Excalidraw/未命名.canvas",
     "未命名 1.canvas",
     "PNG/山石/业务/ti-static-library/未命名.canvas",
