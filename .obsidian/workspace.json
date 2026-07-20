@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "5611e62847c9f26b",
+            "id": "8593e0cfefe6172d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,12 +84,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "014a8a8d3b24cf7d",
@@ -217,6 +217,7 @@
   },
   "active": "c26e1961d1ce81bc",
   "lastOpenFiles": [
+    "Excalidraw/整合流程.md",
     "Grow/JavaSE/JavaSE.md",
     "Grow/JavaSE",
     "Grow",
@@ -225,7 +226,6 @@
     "Excalidraw/whoisxml.md",
     "Excalidraw/c2库流程.md",
     "Excalidraw/Etpro文件定时处理任务.md",
-    "Excalidraw/整合流程.md",
     "Excalidraw/whoisxml精简.md",
     "Excalidraw/whoisxml接口.md",
     "技术/杂项",
