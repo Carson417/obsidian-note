@@ -11,14 +11,12 @@
             "id": "c26e1961d1ce81bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Grow/JavaSE/JavaSE.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/c2库流程.md"
               },
-              "icon": "lucide-file",
-              "title": "JavaSE"
+              "icon": "excalidraw-icon",
+              "title": "c2库流程"
             }
           }
         ]
@@ -75,7 +73,7 @@
             }
           },
           {
-            "id": "8593e0cfefe6172d",
+            "id": "8795b4d4f7a0f50f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -217,15 +215,18 @@
   },
   "active": "c26e1961d1ce81bc",
   "lastOpenFiles": [
-    "Excalidraw/整合流程.md",
+    "Excalidraw/c2库流程.md",
+    "Excalidraw/跨境站点库.md",
     "Grow/JavaSE/JavaSE.md",
+    "Excalidraw/Etpro文件定时处理任务.md",
+    "Excalidraw/未命名.canvas",
+    "Excalidraw/未命名.md",
+    "Excalidraw/整合流程.md",
     "Grow/JavaSE",
     "Grow",
     "Excalidraw/资产扩线.md",
     "技术/杂项/常识.md",
     "Excalidraw/whoisxml.md",
-    "Excalidraw/c2库流程.md",
-    "Excalidraw/Etpro文件定时处理任务.md",
     "Excalidraw/whoisxml精简.md",
     "Excalidraw/whoisxml接口.md",
     "技术/杂项",
@@ -263,10 +264,7 @@
     "技术/Mysql/Mysql45.md",
     "技术/K8S/PV, PVC, StorageClass.md",
     "技术/JVM/JVM虚拟机.md",
-    "技术/JUC/JUC并发编程.md",
     "技术/JUC/锁.canvas",
-    "技术/JavaWeb/JavaWeb.md",
-    "Excalidraw/未命名.canvas",
     "未命名 1.canvas",
     "PNG/山石/业务/ti-static-library/未命名.canvas",
     "山石/未命名.canvas"
