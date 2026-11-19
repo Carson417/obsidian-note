@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "21284f883dce0368",
+        "id": "2a5fd3c04be4ba9b",
         "type": "tabs",
         "children": [
           {
-            "id": "c26e1961d1ce81bc",
+            "id": "20f6549e11cabe00",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/整合流程.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "整合流程"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "3f1dbbffd648d9d6",
+            "id": "ddd4084b7e0dfc9a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -213,7 +211,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c26e1961d1ce81bc",
+  "active": "20f6549e11cabe00",
   "lastOpenFiles": [
     "Excalidraw/整合流程.md",
     "Excalidraw/c2库流程.md",
